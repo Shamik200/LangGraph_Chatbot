@@ -201,7 +201,7 @@ MIT License © 2025 - Feel free to use this project for anything! Build somethin
 </div>
 
 ## 🌐 Connect
-- [Your GitHub Profile](https://github.com/yourusername)
+- [Your GitHub Profile](https://github.com/shamik200)
 - [Streamlit](https://streamlit.io/)
 - [LangGraph](https://github.com/langchain-ai/langgraph)
 
