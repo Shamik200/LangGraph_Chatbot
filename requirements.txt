@@ -1,14 +1,18 @@
-# Core dependencies
-langgraph>=0.2.0
+# Core AI & LangGraph dependencies
+langgraph>=0.6.8
 langchain>=0.3.0
 langchain-core>=0.3.0
+langchain-community>=0.3.0
 langchain-google-genai>=2.0.0
+
+# Web interface
 streamlit>=1.39.0
+
+# Search capabilities
+ddgs>=6.0.0
+duckduckgo-search>=6.0.0
+
+# Environment management
 python-dotenv>=1.0.0
 
-# Database
-sqlite3
-
-# Additional utilities
-uuid
-typing
+# Note: sqlite3, uuid, and typing are built-in Python modules
