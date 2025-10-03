@@ -82,7 +82,7 @@ Found a bug? Have a feature request? [Open an issue](https://github.com/Shamik20
 MIT License - Go wild and build something amazing!
 
 ## 🌐 Connect
-- [Your GitHub Profile](https://github.com/yourusername)
+- [Your GitHub Profile](https://github.com/shamik200)
 - [Streamlit](https://streamlit.io/)
 - [LangGraph](https://github.com/langchain-ai/langgraph)
 
